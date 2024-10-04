@@ -12,9 +12,10 @@ import {
   ScrollView,
   StatusBar,
   StyleSheet,
-  Text,
+  Text,   
   useColorScheme,
   View,
+  Image
 } from 'react-native';
 
 import {
